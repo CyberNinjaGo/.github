@@ -24,7 +24,7 @@ Kami adalah kelompok yang terdiri dari penggemar teknologi keamanan dan keamanan
 Berikut adalah proyek terbaru yang sedang kami kerjakan:
 
 1. [Go-pdfTOtxt](https://github.com/CyberNinjaGo/Go-pdfTOtxt/) - Convert pdf to txt.
-2. [Nama Proyek 2](link-proyek2) - Deskripsi singkat proyek kedua.
+2. [TelegoGPT](https://github.com/1amkaizen/TelegoGPT/) - Telegram bot dengan API ChatGPT.
 
 ## Cara Berkontribusi
 
