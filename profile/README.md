@@ -23,7 +23,7 @@ Kami adalah kelompok yang terdiri dari penggemar teknologi keamanan dan keamanan
 
 Berikut adalah proyek terbaru yang sedang kami kerjakan:
 
-1. [Nama Proyek 1](link-proyek1) - Deskripsi singkat proyek pertama.
+1. [Go-pdfTOtxt](https://github.com/CyberNinjaGo/Go-pdfTOtxt/) - Convert pdf to txt.
 2. [Nama Proyek 2](link-proyek2) - Deskripsi singkat proyek kedua.
 
 ## Cara Berkontribusi
