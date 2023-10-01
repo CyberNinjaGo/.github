@@ -1,11 +1,37 @@
-## Hi there 👋
+# Selamat Datang di Organisasi CyberNinjaGo!
 
+Selamat datang di organisasi GitHub resmi CyberNinjaGo, di mana kami fokus pada keamanan siber dan keamanan informasi. Kami adalah komunitas penggemar yang tertarik pada teknologi keamanan dan ingin berkontribusi untuk menciptakan lingkungan siber yang lebih aman.
 
-**Here are some ideas to get you started:**
+## Daftar Isi
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Tentang Kami](#tentang-kami)
+- [Proyek Terkini](#proyek-terkini)
+- [Cara Berkontribusi](#cara-berkontribusi)
+- [Lisensi](#lisensi)
 
+## Tentang Kami
+
+Kami adalah kelompok yang terdiri dari penggemar teknologi keamanan dan keamanan siber. Tujuan kami adalah untuk mempromosikan pengetahuan tentang keamanan siber, mengembangkan proyek keamanan open source, dan berbagi wawasan dengan komunitas.
+
+### Tim Utama
+
+- Nama Anggota 1 ([@anggota1](https://github.com/anggota1))
+- Nama Anggota 2 ([@anggota2](https://github.com/anggota2))
+- Nama Anggota 3 ([@anggota3](https://github.com/anggota3))
+
+## Proyek Terkini
+
+Berikut adalah proyek terbaru yang sedang kami kerjakan:
+
+1. [Nama Proyek 1](link-proyek1) - Deskripsi singkat proyek pertama.
+2. [Nama Proyek 2](link-proyek2) - Deskripsi singkat proyek kedua.
+
+## Cara Berkontribusi
+
+Kami sangat menyambut kontribusi dari siapa saja! Jika Anda tertarik untuk berkontribusi pada proyek kami, lihat [Pedoman Kontribusi](CONTRIBUTING.md) kami untuk panduan selengkapnya.
+
+## Lisensi
+
+[Lisensi Proyek](LICENSE) - Hak cipta (c) Tahun CyberNinjaGo.
+
+Dibuat dengan ❤️ oleh tim CyberNinjaGo.
